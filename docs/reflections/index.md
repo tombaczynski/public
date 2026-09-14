@@ -1,2 +1,5 @@
 ---
-layout: k
+layout: katalog
+---
+
+# Luźne refleksje  
