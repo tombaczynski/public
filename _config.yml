@@ -7,7 +7,7 @@ description: Strona zawierająca różne materiały.
 
 # Adres URL Twojej strony
 url: "https://tombaczynski.github.io"
-baseurl: "/pub"
+baseurl: "/public"
 
 # Włączenie wbudowanej wyszukiwarki
 search_enabled: true
