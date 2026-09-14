@@ -1,5 +1,0 @@
----
-layout: katalog
----
-
-# Luźne refleksje  
