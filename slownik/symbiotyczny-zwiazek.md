@@ -28,3 +28,5 @@ Jeszcze mocniejsza forma to zależność emocjonalna, w której jedna osoba zacz
 Co ważne, symbiotyczny związek nie oznacza po prostu związku z dużą ilością miłości, seksu, przytulania czy kontaktu. Kluczowe jest to, czy obie osoby zachowują poczucie odrębności i mogą mieć granice bez poczucia, że zagraża to całej relacji.  
 
 „Bliskość” a „emocjonalne zlanie się” to dwie różne rzeczy.
+
+(gpt)
