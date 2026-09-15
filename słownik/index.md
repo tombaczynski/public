@@ -1,5 +1,0 @@
----
-layout: katalog
----
-
-# Słownik relacyjny(?)
