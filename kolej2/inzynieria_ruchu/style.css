@@ -1,0 +1,23 @@
+/* RESET KONTENERÓW GITHUBA DLA SZEROKIEJ TABELI */
+/* Te reguły zadziałają tylko na GitHub Pages i w VS Code */
+
+/* Rozpędzamy kontenery GitHuba, ale tylko wtedy, gdy na stronie pojawia się nasza szeroka tabela */
+body:has(.szeroka-tabela), 
+.markdown-body:has(.szeroka-tabela), 
+main:has(.szeroka-tabela) {
+    overflow: visible !important;
+    max-width: none !important;
+    width: auto !important;
+}
+
+/* FORMATOWANIE SZEROKIEJ TABELI */
+.szeroka-tabela {
+    display: table !important;
+    width: max-content !important;
+    max-width: none !important;
+}
+
+/* Blokowanie zawijania tekstu dla wierszy w szerokiej tabeli */
+.szeroka-tabela tr {
+    white-space: nowrap !important;
+}
