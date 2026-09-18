@@ -1,0 +1,5 @@
+---
+layout: katalog
+---
+
+# Luźne myśli
