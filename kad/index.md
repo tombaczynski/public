@@ -1,5 +1,5 @@
 ---
-layout: katalog
+layout: default
 title: "Kerygmat apostolski dzisiaj"
 ---
 
