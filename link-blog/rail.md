@@ -12,4 +12,5 @@ title: "Link blog kolej"
 
 ## Pojazdy
 
-[EN63H - hybrydowy](https://kolej.mkm.szczecin.pl/encyklopedia/en63h)
+[EN63H - hybrydowy](https://kolej.mkm.szczecin.pl/encyklopedia/en63h)  
+> Sprawiały się bez zarzutu i co ciekawe unikały nawet większych kolizji z pojazdami obcymi.
