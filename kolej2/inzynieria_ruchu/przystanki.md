@@ -48,7 +48,7 @@ layout: plik
 - [ ] Chocicza [mapa](https://maps.app.goo.gl/f1F99kkpFEMKkXQe7)
 - [ ] Solec Wlkp. [Mapa](https://maps.app.goo.gl/rJvgXrbrM4GqnRJH9)
 - [ ] Sulęcinek [mapa](https://maps.app.goo.gl/E8LPxjNPpmmALpCq9)
-- [ ] Środa Wielkopolska [mapa](https://maps.app.goo.gl/ZAyWBmpf6GzpA1B89)
+- [ ] Środa Wielkopolska [lokalizacja](https://www.google.com/maps?q=52.21794880400383,17.27562288124438)  52.21794880400383, 17.27562288124438
 - [ ] Pierzchno [mapa](https://maps.app.goo.gl/uAudthUh7tMsWRLv7)
 - [ ] Kórnik [mapa](https://maps.app.goo.gl/MNz5SgcPGAUddHJ27)
 
