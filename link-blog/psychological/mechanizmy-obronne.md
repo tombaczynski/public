@@ -13,4 +13,27 @@ Mechanizmy obronne to nieświadome strategie psychiczne, które pomagają jednos
 
 2. Wyparcie - proces, w którym jednostka nieświadomie odsuwa  w pamięci nieprzyjemne myśli, uczucia lub wspomnienia.
 
+3. Tłumienie - powstrzymywanie się od odczuwania emocji.
+
+4. Odcięcie - wyłączenie się odczuwania bądź rozumunia, w celu uniknięcia bólu emocjonalnego.
+
+5. Perfekcjonizm - dążenie do doskonałości w celu uniknięcia krytyki lub poczucia winy.
+
+6. Prokrastynacja - odkładanie działań na później, aby uniknąć stresu lub lęku związanego z wykonywaniem zadania.
+
+7. Uległość - podporządkowanie się innym w celu uniknięcia konfliktu lub odrzucenia. 
+
+8. Agresja - wyrażanie negatywnych emocji w sposób agresywny, aby uniknąć poczucia bezradności.
+
+9. Niezależność - unikanie bliskości emocjonalnej z innymi, aby uniknąć zranienia.
+
+10. Omdlenia - fizyczne reakcje organizmu na stres, które mogą prowadzić do utraty przytomności. "Totalne odcięcie świadomości".
+
+11. Maskowanie - ukrywanie prawdziwych uczuć i emocji za pomocą fałszywego zachowania lub postawy.
+
+12. 
+
+
+
+
 [![The Real Reason Why Analog Recording Is Better](https://img.youtube.com/vi/Zq4BOSaKiYo/0.jpg)](https://www.youtube.com/watch?v=Zq4BOSaKiYo)
