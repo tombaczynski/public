@@ -7,7 +7,7 @@ title: "Mechanizmy obronne"
 
 [![Mechanizmy obronne by Tandem Psycholog cz. 1](https://img.youtube.com/vi/LSCsVDgux0I/0.jpg)](https://www.youtube.com/watch?v=LSCsVDgux0I)
 
-cz. 2 https://www.youtube.com/watch?v=SJqriaLH8AQ
+[![Mechanizmy obronne by Tandem Psycholog cz. 2](https://img.youtube.com/vi/SJqriaLH8AQ/0.jpg)](https://www.youtube.com/watch?v=SJqriaLH8AQ)
 
 Mechanizmy obronne to nieświadome strategie psychiczne, które pomagają jednostce radzić sobie z lękiem i stresem.
 
