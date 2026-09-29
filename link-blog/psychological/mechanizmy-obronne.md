@@ -5,7 +5,9 @@ title: "Mechanizmy obronne"
 
 #### Mechanizmy obronne by Tandem Psycholog
 
-[![Mechanizmy obronne by Tandem Psycholog](https://img.youtube.com/vi/LSCsVDgux0I/0.jpg)](https://www.youtube.com/watch?v=LSCsVDgux0I)
+[![Mechanizmy obronne by Tandem Psycholog cz. 1](https://img.youtube.com/vi/LSCsVDgux0I/0.jpg)](https://www.youtube.com/watch?v=LSCsVDgux0I)
+
+cz. 2 https://www.youtube.com/watch?v=SJqriaLH8AQ
 
 Mechanizmy obronne to nieświadome strategie psychiczne, które pomagają jednostce radzić sobie z lękiem i stresem.
 
@@ -31,9 +33,8 @@ Mechanizmy obronne to nieświadome strategie psychiczne, które pomagają jednos
 
 11. Maskowanie - ukrywanie prawdziwych uczuć i emocji za pomocą fałszywego zachowania lub postawy.
 
-12. 
+12. Zaprzeczanie - odrzucanie rzeczywistości lub faktów, które są nieprzyjemne lub trudne do zaakceptowania.
 
+13. Dysocjacja - oddzielenie się od rzeczywistości lub własnych uczuć w celu uniknięcia bólu emocjonalnego. Brak poczucia tożsamości. Niechęć do życia. Nie łączenie wydarzeń ze swojego życia ze swoim życiem.
 
-
-
-[![The Real Reason Why Analog Recording Is Better](https://img.youtube.com/vi/Zq4BOSaKiYo/0.jpg)](https://www.youtube.com/watch?v=Zq4BOSaKiYo)
+14. Negatywizm - pesymistyczne podejście do życia, które może prowadzić do izolacji społecznej i braku motywacji.
