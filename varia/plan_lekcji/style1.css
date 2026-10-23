@@ -18,7 +18,7 @@ main:has(.szeroka-tabela) {
     border: 1px solid #2867A4;
     border-collapse: collapse;
     /* border-radius: 19px; */
-    font-family: 'Roboto Cn', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
     background-color: #e1fcff;
 }
 
