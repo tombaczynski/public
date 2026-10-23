@@ -22,6 +22,10 @@ main:has(.szeroka-tabela) {
     white-space: nowrap !important;
 }
 
+.komorka-lekcji {
+    border-bottom: none;
+}
+
 .numer-sali {
     font-size: 70%;
     border-top: none;

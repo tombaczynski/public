@@ -25,11 +25,11 @@ layout: plik
   <tr>
     <td rowspan="2">1</td>
     <td rowspan="2">8:00 - 8:45</td>
-    <td colspan="2">Matematyka</td>
-    <td colspan="2">Fizyka</td>
-    <td colspan="2">Język polski</td>
-    <td colspan="2">Historia</td>
-    <td colspan="2">Informatyka</td>
+    <td colspan="2" class="komorka-lekcji">Matematyka</td>
+    <td colspan="2" class="komorka-lekcji">Fizyka</td>
+    <td colspan="2" class="komorka-lekcji">Język polski</td>
+    <td colspan="2" class="komorka-lekcji">Historia</td>
+    <td colspan="2" class="komorka-lekcji">Informatyka</td>
   </tr>
   <tr>
     <td class="numer-sali">101</td>
