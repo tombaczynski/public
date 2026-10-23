@@ -15,6 +15,16 @@ main:has(.szeroka-tabela) {
     display: table !important;
     width: max-content !important;
     max-width: none !important;
+    border: 1px solid #2867A4;
+    border-collapse: collapse;
+    /* border-radius: 19px; */
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+:where(.szeroka-tabela) th,
+:where(.szeroka-tabela) td {
+    border: 1px solid #2867A4;
+    padding: 3px;
 }
 
 /* Blokowanie zawijania tekstu dla wierszy w szerokiej tabeli */
@@ -24,6 +34,7 @@ main:has(.szeroka-tabela) {
 
 .komorka-lekcji {
     border-bottom: none;
+    text-align: center;
 }
 
 .numer-sali {
@@ -37,4 +48,8 @@ main:has(.szeroka-tabela) {
     border-top: none;
     border-left: none;
     text-align: right;
+}
+
+.komorka-numeru-lekcji {
+    text-align: center;
 }
