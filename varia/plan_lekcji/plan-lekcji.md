@@ -6,6 +6,8 @@ layout: plik
 
 [↑ W górę](./index.md)
 
+[HTML](./tabela_planu.html)
+
 # Plan lekcji
 
 <table class="szeroka-tabela" border="2">
