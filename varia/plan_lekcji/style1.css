@@ -19,6 +19,7 @@ main:has(.szeroka-tabela) {
     border-collapse: collapse;
     /* border-radius: 19px; */
     font-family: 'Roboto Condensed', sans-serif;
+    background-color: #e1fcff;
 }
 
 :where(.szeroka-tabela) th,
@@ -52,4 +53,9 @@ main:has(.szeroka-tabela) {
 
 .komorka-numeru-lekcji {
     text-align: center;
+}
+
+.komorka-godzin-lekcji {
+    font-size: 85%;
+    background-color: #e6f8fa;
 }
