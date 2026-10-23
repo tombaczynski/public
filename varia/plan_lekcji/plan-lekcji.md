@@ -6,7 +6,7 @@ layout: plik
 
 [↑ W górę](./index.md)
 
-[HTML](./tabela_planu.html)
+[HTML](./tabela_planu_html.html)
 
 # Plan lekcji
 
