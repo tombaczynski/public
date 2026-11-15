@@ -71,67 +71,43 @@ Oznacza, że:
 2. można mieć własne potrzeby i granice;
 3. można powiedzieć „teraz potrzebuję odpocząć” bez obawy, że związek się rozpadnie;
 4. konflikt nie oznacza automatycznie zagrożenia rozstaniem;
+5. obie osoby mają przestrzeń na własne emocje;
+6. można liczyć na drugą osobę, ale nie trzeba być od niej całkowicie zależnym.
 
-obie osoby mają przestrzeń na własne emocje;
+## Czym bliskość relacyjna nie jest?
 
-można liczyć na drugą osobę, ale nie trzeba być od niej całkowicie zależnym.
-
-Czym bliskość relacyjna nie jest?
 Warto odróżnić ją od kilku rzeczy:
 
-Bliskość
+| Bliskość | Nie oznacza |
+| --- | --- |
+| Zainteresowanie | Nieustannego kontaktu |
+| Troska | Odpowiedzialności za wszystkie emocje partnera |
+| Zaangażowanie | Rezygnacji z własnego życia |
+| Bezpieczeństwo | Braku konfliktów |
+| Intymność | Obowiązku ujawniania wszystkiego |
+| Miłość | Nieustannego potwierdzania uczuć |
+  
+## Istotne rozróżnienie
 
-Nie oznacza
-
-Zainteresowanie
-
-Nieustannego kontaktu
-
-Troska
-
-Odpowiedzialności za wszystkie emocje partnera
-
-Zaangażowanie
-
-Rezygnacji z własnego życia
-
-Bezpieczeństwo
-
-Braku konfliktów
-
-Intymność
-
-Obowiązku ujawniania wszystkiego
-
-Miłość
-
-Nieustannego potwierdzania uczuć
-
-Istotne rozróżnienie
 Można bardzo mocno pragnąć bliskości, a jednocześnie mieć trudność z jej budowaniem.
 
 Na przykład ktoś może:
-
-potrzebować częstego kontaktu;
-
-oczekiwać przytulania i zapewnień o miłości;
-
-źle znosić rozłąkę;
-
-bardzo przeżywać chwilowy brak zainteresowania.
+ 
+1. potrzebować częstego kontaktu;
+2. oczekiwać przytulania i zapewnień o miłości;
+3. źle znosić rozłąkę;
+4. bardzo przeżywać chwilowy brak zainteresowania.
 
 Ale to jeszcze nie musi oznaczać głębokiej bliskości relacyjnej.
 
-Potrzeba bliskości i zdolność do budowania bliskości to dwie różne rzeczy.
+### Potrzeba bliskości i zdolność do budowania bliskości to dwie różne rzeczy.
 
 Głęboka bliskość wymaga bowiem nie tylko otrzymywania uwagi, czułości i wsparcia, ale również zdolności do poznawania drugiego człowieka, uwzględniania jego potrzeb, respektowania jego odrębności i wzajemnego budowania więzi.
 
-Moim zdaniem szczególnie ważna jest następująca myśl:
-
-Bliskość w związku to nie tylko możliwość bycia blisko drugiego człowieka, ale również możliwość bycia sobą w jego obecności.
+> [!IPMPORTANT]
+> Szczególnie ważna jest następująca myśl:  
+> Bliskość w związku to nie tylko możliwość bycia blisko drugiego człowieka, ale również możliwość bycia sobą w jego obecności.
 
 To znaczy, że nie muszę udawać, ukrywać zmęczenia, tłumić własnych emocji ani stale spełniać oczekiwań, żeby zachować więź z drugą osobą.
 
-ChatGPT to AI i może się mylić.
-
-Czat z ChatGPT
+ChatGChatGPT)
