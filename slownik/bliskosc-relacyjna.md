@@ -110,4 +110,4 @@ Głęboka bliskość wymaga bowiem nie tylko otrzymywania uwagi, czułości i ws
 
 To znaczy, że nie muszę udawać, ukrywać zmęczenia, tłumić własnych emocji ani stale spełniać oczekiwań, żeby zachować więź z drugą osobą.
 
-ChatGChatGPT)
+(ChatGPT to AI i może się mylić)
