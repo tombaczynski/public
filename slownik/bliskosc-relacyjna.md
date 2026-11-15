@@ -11,82 +11,66 @@ To coś znacznie szerszego niż fizyczna obecność, przytulanie czy współżyc
 
 Można ją rozpatrywać w kilku wymiarach.
 
-## Bliskość emocjonalna
+## 1. Bliskość emocjonalna
+
 To możliwość dzielenia się swoim światem emocjonalnym.
 
-Mówienie o radościach, lękach, smutku i rozczarowaniach.
+1. Mówienie o radościach, lękach, smutku i rozczarowaniach.
+2. Bycie wysłuchanym bez natychmiastowego oceniania.
+3. Zainteresowanie tym, co druga osoba przeżywa.
+4. Możliwość pokazania słabości bez obawy przed odrzuceniem.
+5. Współodczuwanie i okazywanie troski.
 
-Bycie wysłuchanym bez natychmiastowego oceniania.
+> [!IMPORTANT]
+> Bliskość emocjonalna nie oznacza, że partnerzy muszą zawsze odczuwać to samo.
 
-Zainteresowanie tym, co druga osoba przeżywa.
+## 2. Bliskość intelektualna
 
-Możliwość pokazania słabości bez obawy przed odrzuceniem.
-
-Współodczuwanie i okazywanie troski.
-
-Ważne: bliskość emocjonalna nie oznacza, że partnerzy muszą zawsze odczuwać to samo.
-
-Bliskość intelektualna
 To dzielenie się myślami, poglądami i sposobem rozumienia świata.
 
-Rozmowy o sprawach ważnych i błahych.
-
-Wymiana poglądów.
-
-Wspólne odkrywanie i uczenie się.
-
-Ciekawość sposobu myślenia drugiej osoby.
-
-Możliwość niezgadzania się bez zagrożenia dla więzi.
+1. Rozmowy o sprawach ważnych i błahych.
+2. Wymiana poglądów.
+3. Wspólne odkrywanie i uczenie się.
+4. Ciekawość sposobu myślenia drugiej osoby.
+5. Możliwość niezgadzania się bez zagrożenia dla więzi.
 
 Można być intelektualnie blisko nawet wtedy, kiedy ma się zupełnie odmienne zainteresowania.
 
-Bliskość fizyczna
+## 3. Bliskość fizyczna
+
 Nie ogranicza się do seksualności.
 
-Przytulanie.
-
-Trzymanie się za ręce.
-
-Dotyk.
-
-Siedzenie blisko siebie.
-
-Pocałunki.
-
-Wspólne zasypianie.
+1. Przytulanie.
+2. Trzymanie się za ręce.
+3. Dotyk.
+4. Siedzenie blisko siebie.
+5. Pocałunki.
+6. Wspólne zasypianie.
 
 Seksualność może być jednym z wyrazów bliskości fizycznej, ale nie jest jej warunkiem.
 
-Bliskość codzienna
+## 4. Bliskość codzienna
+
 To budowanie więzi przez zwyczajne wspólne życie.
 
-Wspólne posiłki.
-
-Robienie zakupów.
-
-Rozwiązywanie problemów.
-
-Dzielenie obowiązków.
-
-Planowanie przyszłości.
-
-Zwykła obecność drugiego człowieka.
+1. Wspólne posiłki.
+2. Robienie zakupów.
+3. Rozwiązywanie problemów.
+4. Dzielenie obowiązków.
+5. Planowanie przyszłości.
+6. Zwykła obecność drugiego człowieka.
 
 Często właśnie te małe, powtarzalne doświadczenia budują trwałość związku.
 
-Bliskość oparta na bezpieczeństwie
+## 5. Bliskość oparta na bezpieczeństwie
+
 To jeden z najważniejszych wymiarów.
 
 Oznacza, że:
-
-nie trzeba nieustannie udowadniać swojej miłości;
-
-można mieć własne potrzeby i granice;
-
-można powiedzieć „teraz potrzebuję odpocząć” bez obawy, że związek się rozpadnie;
-
-konflikt nie oznacza automatycznie zagrożenia rozstaniem;
+1. nie trzeba nieustannie udowadniać swojej miłości;
+2. można mieć własne potrzeby i granice;
+3. można powiedzieć „teraz potrzebuję odpocząć” bez obawy, że związek się rozpadnie;
+4. konflikt nie oznacza automatycznie zagrożenia rozstaniem;
 
 obie osoby mają przestrzeń na własne emocje;
 
