@@ -104,7 +104,7 @@ Ale to jeszcze nie musi oznaczać głębokiej bliskości relacyjnej.
 
 Głęboka bliskość wymaga bowiem nie tylko otrzymywania uwagi, czułości i wsparcia, ale również zdolności do poznawania drugiego człowieka, uwzględniania jego potrzeb, respektowania jego odrębności i wzajemnego budowania więzi.
 
-> [!IPMPORTANT]
+> [!IPMPORTANT]  
 > Szczególnie ważna jest następująca myśl:  
 > Bliskość w związku to nie tylko możliwość bycia blisko drugiego człowieka, ale również możliwość bycia sobą w jego obecności.
 
