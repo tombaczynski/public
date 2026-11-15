@@ -21,7 +21,7 @@ To możliwość dzielenia się swoim światem emocjonalnym.
 4. Możliwość pokazania słabości bez obawy przed odrzuceniem.
 5. Współodczuwanie i okazywanie troski.
 
-> [!IMPORTANT]
+> [!IMPORTANT]  
 > Bliskość emocjonalna nie oznacza, że partnerzy muszą zawsze odczuwać to samo.
 
 ## 2. Bliskość intelektualna
