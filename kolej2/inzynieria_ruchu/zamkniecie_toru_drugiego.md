@@ -234,7 +234,7 @@ layout: plik
     <td colspan="11" style="text-align: center; border-right: 3px double;">odebrał nast. Malinowski, godz. 8<sup>03</sup>.</td>
   </tr>
   <tr>
-    <td colspan="22">O godz. 8<sup>04</sup> wprowadzam telefoniczne polecanie i zgłaszanie przygotowania dróg przebiegu między Du i Du1 dla pociągów wjeżdżających od Białej do Dubna oraz dla pociągów wjeżdżających i wyjeżdżających na zamknięty tor nr 2.</td>
+    <td colspan="22">O godz. 8<sup>04</sup> wprowadzam telefoniczne polecanie i zgłaszanie przygotowania dróg przebiegu między Du i Du1 dla pociągów wyjeżdżających na tor lewy numer 1 z Dubna do Białej oraz dla pociągów wjeżdżających i wyjeżdżających na zamknięty tor nr 2.</td>
   </tr>
   <tr>
     <td colspan="11" style="text-align: center; border-right: 3px double;">Nadał ISEDR Kowalski,</td>
@@ -257,7 +257,7 @@ layout: plik
     </tr>
   <tr>
     <td style="vertical-align: top;">03.09.2026<br>godz. 8<sup>04</sup></td>
-    <td>Wprowadzam telefoniczne polecanie i zgłaszanie przygotowania dróg przebiegu między Du i Du1 dla pociągów wjeżdżających od Białej do Dubna oraz dla pociągów wjeżdżających i wyjeżdżających na zamknięty tor nr 2.<br><span style="text-align: right; display: block; width: 100%; margin: 0; padding: 0;">Nadał nast. Malinowski<br>Odebrał ISEDR Kowalski</span></td>
+    <td>Wprowadzam telefoniczne polecanie i zgłaszanie przygotowania dróg przebiegu między Du i Du1 dla pociągów wyjeżdżających na tor lewy numer 1 z Dubna do Białej oraz dla pociągów wjeżdżających i wyjeżdżających na zamknięty tor nr 2.<br><span style="text-align: right; display: block; width: 100%; margin: 0; padding: 0;">Nadał nast. Malinowski<br>Odebrał ISEDR Kowalski</span></td>
     <td></td>
   </tr>
 </table>
@@ -334,7 +334,7 @@ layout: plik
     <td colspan="11" style="text-align: center; border-right: 3px double;">odebrał nast. Malinowski, godz. 8<sup>03</sup>.</td>
   </tr>
   <tr>
-    <td colspan="22">O godz. 8<sup>04</sup> wprowadzam telefoniczne polecanie i zgłaszanie przygotowania dróg przebiegu między Du i Du1 dla pociągów wjeżdżających od Białej do Dubna oraz dla pociągów wjeżdżających i wyjeżdżających na zamknięty tor nr 2.</td>
+    <td colspan="22">O godz. 8<sup>04</sup> wprowadzam telefoniczne polecanie i zgłaszanie przygotowania dróg przebiegu między Du i Du1 dla pociągów wyjeżdżających na tor lewy numer 1 z Dubna do Białej oraz dla pociągów wjeżdżających i wyjeżdżających na zamknięty tor nr 2.</td>
   </tr>
   <tr>
     <td colspan="11" style="text-align: center; border-right: 3px double;">Nadał ISEDR Kowalski,</td>
@@ -366,7 +366,7 @@ layout: plik
     </tr>
   <tr>
     <td style="vertical-align: top;">03.09.2026<br>godz. 8<sup>04</sup></td>
-    <td>Wprowadzam telefoniczne polecanie i zgłaszanie przygotowania dróg przebiegu między Du i Du1 dla pociągów wjeżdżających od Białej do Dubna oraz dla pociągów wjeżdżających i wyjeżdżających na zamknięty tor nr 2.<br><span style="text-align: right; display: block; width: 100%; margin: 0; padding: 0;">Nadał nast. Malinowski<br>Odebrał ISEDR Kowalski</span></td>
+    <td>Wprowadzam telefoniczne polecanie i zgłaszanie przygotowania dróg przebiegu między Du i Du1 dla pociągów wyjeżdżających na tor lewy numer 1 z Dubna do Białej oraz dla pociągów wjeżdżających i wyjeżdżających na zamknięty tor nr 2.<br><span style="text-align: right; display: block; width: 100%; margin: 0; padding: 0;">Nadał nast. Malinowski<br>Odebrał ISEDR Kowalski</span></td>
     <td></td>
   </tr>
   <tr>
@@ -446,7 +446,7 @@ layout: plik
     <td colspan="11" style="text-align: center; border-right: 3px double;">odebrał nast. Malinowski, godz. 8<sup>03</sup>.</td>
   </tr>
   <tr>
-    <td colspan="22">O godz. 8<sup>04</sup> wprowadzam telefoniczne polecanie i zgłaszanie przygotowania dróg przebiegu między Du i Du1 dla pociągów wjeżdżających od Białej do Dubna oraz dla pociągów wjeżdżających i wyjeżdżających na zamknięty tor nr 2.</td>
+    <td colspan="22">O godz. 8<sup>04</sup> wprowadzam telefoniczne polecanie i zgłaszanie przygotowania dróg przebiegu między Du i Du1 dla pociągów wyjeżdżających na tor lewy numer 1 z Dubna do Białej oraz dla pociągów wjeżdżających i wyjeżdżających na zamknięty tor nr 2.</td>
   </tr>
   <tr>
     <td colspan="11" style="text-align: center; border-right: 3px double;">Nadał ISEDR Kowalski,</td>
@@ -1474,7 +1474,7 @@ Dyżurny ruchu:
     </tr>
   <tr>
     <td style="vertical-align: top;">03.09.2026<br>godz. 8<sup>04</sup></td>
-    <td>Wprowadzam telefoniczne polecanie i zgłaszanie przygotowania dróg przebiegu między Du i Du1 dla pociągów wjeżdżających od Białej do Dubna oraz dla pociągów wjeżdżających i wyjeżdżających na zamknięty tor nr 2.<br><span style="text-align: right; display: block; width: 100%; margin: 0; padding: 0;">Nadał nast. Malinowski<br>Odebrał ISEDR Kowalski</span></td>
+    <td>Wprowadzam telefoniczne polecanie i zgłaszanie przygotowania dróg przebiegu między Du i Du1 dla pociągów wyjeżdżających na tor lewy numer 1 z Dubna do Białej oraz dla pociągów wjeżdżających i wyjeżdżających na zamknięty tor nr 2.<br><span style="text-align: right; display: block; width: 100%; margin: 0; padding: 0;">Nadał nast. Malinowski<br>Odebrał ISEDR Kowalski</span></td>
     <td></td>
   </tr>
   <tr>
@@ -2588,7 +2588,7 @@ Dyżurny ruchu:
     </tr>
   <tr>
     <td style="vertical-align: top;">03.09.2026<br>godz. 8<sup>04</sup></td>
-    <td>Wprowadzam telefoniczne polecanie i zgłaszanie przygotowania dróg przebiegu między Du i Du1 dla pociągów wjeżdżających od Białej do Dubna oraz dla pociągów wjeżdżających i wyjeżdżających na zamknięty tor nr 2.<br><span style="text-align: right; display: block; width: 100%; margin: 0; padding: 0;">Nadał nast. Malinowski<br>Odebrał ISEDR Kowalski</span></td>
+    <td>Wprowadzam telefoniczne polecanie i zgłaszanie przygotowania dróg przebiegu między Du i Du1 dla pociągów wyjeżdżających na tor lewy numer 1 z Dubna do Białej oraz dla pociągów wjeżdżających i wyjeżdżających na zamknięty tor nr 2.<br><span style="text-align: right; display: block; width: 100%; margin: 0; padding: 0;">Nadał nast. Malinowski<br>Odebrał ISEDR Kowalski</span></td>
     <td></td>
   </tr>
   <tr>
@@ -3049,7 +3049,7 @@ Dyżurny ruchu:
     </tr>
   <tr>
     <td style="vertical-align: top;">03.09.2026<br>godz. 8<sup>04</sup></td>
-    <td>Wprowadzam telefoniczne polecanie i zgłaszanie przygotowania dróg przebiegu między Du i Du1 dla pociągów wjeżdżających od Białej do Dubna oraz dla pociągów wjeżdżających i wyjeżdżających na zamknięty tor nr 2.<br><span style="text-align: right; display: block; width: 100%; margin: 0; padding: 0;">Nadał ISEDR Kowalski<br>Odebrał nast. Malinowski</span></td>
+    <td>Wprowadzam telefoniczne polecanie i zgłaszanie przygotowania dróg przebiegu między Du i Du1 dla pociągów wyjeżdżających na tor lewy numer 1 z Dubna do Białej oraz dla pociągów wjeżdżających i wyjeżdżających na zamknięty tor nr 2.<br><span style="text-align: right; display: block; width: 100%; margin: 0; padding: 0;">Nadał ISEDR Kowalski<br>Odebrał nast. Malinowski</span></td>
     <td></td>
   </tr>
   <tr>
@@ -3316,7 +3316,7 @@ Dyżurny ruchu:
     </tr>
   <tr>
     <td style="vertical-align: top;">03.09.2026<br>godz. 8<sup>04</sup></td>
-    <td>Wprowadzam telefoniczne polecanie i zgłaszanie przygotowania dróg przebiegu między Du i Du1 dla pociągów wjeżdżających od Białej do Dubna oraz dla pociągów wjeżdżających i wyjeżdżających na zamknięty tor nr 2.<br><span style="text-align: right; display: block; width: 100%; margin: 0; padding: 0;">Nadał ISEDR Kowalski<br>Odebrał nast. Malinowski</span></td>
+    <td>Wprowadzam telefoniczne polecanie i zgłaszanie przygotowania dróg przebiegu między Du i Du1 dla pociągów wyjeżdżających na tor lewy numer 1 z Dubna do Białej oraz dla pociągów wjeżdżających i wyjeżdżających na zamknięty tor nr 2.<br><span style="text-align: right; display: block; width: 100%; margin: 0; padding: 0;">Nadał ISEDR Kowalski<br>Odebrał nast. Malinowski</span></td>
     <td></td>
   </tr>
   <tr>
@@ -3596,7 +3596,7 @@ Dyżurny ruchu:
     </tr>
   <tr>
     <td style="vertical-align: top;">03.09.2026<br>godz. 8<sup>04</sup></td>
-    <td>Wprowadzam telefoniczne polecanie i zgłaszanie przygotowania dróg przebiegu między Du i Du1 dla pociągów wjeżdżających od Białej do Dubna oraz dla pociągów wjeżdżających i wyjeżdżających na zamknięty tor nr 2.<br><span style="text-align: right; display: block; width: 100%; margin: 0; padding: 0;">Nadał ISEDR Kowalski<br>Odebrał nast. Malinowski</span></td>
+    <td>Wprowadzam telefoniczne polecanie i zgłaszanie przygotowania dróg przebiegu między Du i Du1 dla pociągów wyjeżdżających na tor lewy numer 1 z Dubna do Białej oraz dla pociągów wjeżdżających i wyjeżdżających na zamknięty tor nr 2.<br><span style="text-align: right; display: block; width: 100%; margin: 0; padding: 0;">Nadał ISEDR Kowalski<br>Odebrał nast. Malinowski</span></td>
     <td></td>
   </tr>
   <tr>
@@ -3703,7 +3703,7 @@ Dyżurny ruchu:
     <td colspan="11" style="text-align: center;">odebrał nast. Malinowski, godz. 8<sup>03</sup>.</td>
   </tr>
   <tr>
-    <td colspan="22">O godz. 8<sup>04</sup> wprowadzam telefoniczne polecanie i zgłaszanie przygotowania dróg przebiegu między Du i Du1 dla pociągów wjeżdżających od Białej do Dubna oraz dla pociągów wjeżdżających i wyjeżdżających na zamknięty tor nr 2.</td>
+    <td colspan="22">O godz. 8<sup>04</sup> wprowadzam telefoniczne polecanie i zgłaszanie przygotowania dróg przebiegu między Du i Du1 dla pociągów wyjeżdżających na tor lewy numer 1 z Dubna do Białej oraz dla pociągów wjeżdżających i wyjeżdżających na zamknięty tor nr 2.</td>
   </tr>
   <tr>
     <td colspan="11" style="text-align: center; border-right: 3px double;">Nadał ISEDR Kowalski,</td>
